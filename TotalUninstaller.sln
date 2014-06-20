@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30516.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalUninstaller", "TotalUninstaller.csproj", "{44587053-9239-47CB-BC36-C103C1A6B130}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.bittitan.com/tfs/bittitan
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TotalUninstaller.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44587053-9239-47CB-BC36-C103C1A6B130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44587053-9239-47CB-BC36-C103C1A6B130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44587053-9239-47CB-BC36-C103C1A6B130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44587053-9239-47CB-BC36-C103C1A6B130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
