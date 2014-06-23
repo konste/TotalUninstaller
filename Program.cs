@@ -80,7 +80,7 @@ namespace TotalUninstaller
         }
         private static void Uninstall(string productCode)
         {
-            Installer.SetInternalUI(InstallUIOptions.Basic | InstallUIOptions.ProgressOnly);
+            Installer.SetInternalUI(InstallUIOptions.ProgressOnly | InstallUIOptions.SourceResolutionOnly | InstallUIOptions.UacOnly);
             Installer.ConfigureProduct(productCode, 0, InstallState.Absent, "");
         }
     }
